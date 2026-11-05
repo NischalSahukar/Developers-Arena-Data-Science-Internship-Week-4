@@ -36,28 +36,6 @@ The dataset contains the following columns:
 - Region
 - Total_Sales
 
-## Project Structure
-
-Ecommerce-Sales-Analysis/
-│
-├── data/
-│   ├── sales_data.csv
-│   └── cleaned_sales_data.csv
-│
-├── visualizations/
-│   ├── product_sales.png
-│   ├── monthly_sales.png
-│   ├── product_distribution.png
-│   └── regional_sales.png
-│
-├── report/
-│   └── Project_Report.txt
-│
-├── analysis.ipynb
-├── main.py
-├── requirements.txt
-└── README.md
-
 ## Analysis Performed
 
 1. Overall Sales Analysis
